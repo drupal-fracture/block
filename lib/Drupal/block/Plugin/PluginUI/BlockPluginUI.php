@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Contains \Drupal\block\Plugin\system\plugin_ui\BlockPluginUI.
+ * Contains \Drupal\block\Plugin\PluginUI\BlockPluginUI.
  */
 
-namespace Drupal\block\Plugin\system\plugin_ui;
+namespace Drupal\block\Plugin\PluginUI;
 
 use Drupal\system\Plugin\PluginUIBase;
 use Drupal\Component\Annotation\Plugin;

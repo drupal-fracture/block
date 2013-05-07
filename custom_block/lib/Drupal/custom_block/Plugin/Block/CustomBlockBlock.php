@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\custom_block\Plugin\block\block\CustomBlockBlock.
+ * Contains \Drupal\custom_block\Plugin\Block\CustomBlockBlock.
  */
 
-namespace Drupal\custom_block\Plugin\block\block;
+namespace Drupal\custom_block\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;

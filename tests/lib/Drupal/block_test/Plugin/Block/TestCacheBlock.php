@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\block_test\Plugin\block\block\TestCacheBlock.
+ * Contains \Drupal\block_test\Plugin\Block\TestCacheBlock.
  */
 
-namespace Drupal\block_test\Plugin\block\block;
+namespace Drupal\block_test\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;

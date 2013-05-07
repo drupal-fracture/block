@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\block_test\Plugin\block\block\TestXSSTitleBlock.
+ * Contains \Drupal\block_test\Plugin\Block\TestXSSTitleBlock.
  */
 
-namespace Drupal\block_test\Plugin\block\block;
+namespace Drupal\block_test\Plugin\Block;
 
 use Drupal\Component\Annotation\Plugin;
 
